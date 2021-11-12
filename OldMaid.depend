@@ -1,0 +1,124 @@
+# depslib dependency file v1.0
+1570321412 source:/home/onwn3720/tests/OldMaid/src/Card.cpp
+	"../include/Card.h"
+
+1570325165 /home/onwn3720/tests/OldMaid/include/Card.h
+	<iostream>
+
+1570320885 source:/home/onwn3720/tests/OldMaid/test/main.cpp
+	"gtest/gtest.h"
+
+1570320885 source:/home/onwn3720/tests/OldMaid/src/game/cardGame.cpp
+	<iostream>
+
+1571198597 source:/home/onwn3720/scrap/OldMaid/test/main.cpp
+	"gtest/gtest.h"
+
+1571191790 source:/home/onwn3720/scrap/OldMaid/src/cardGame/cardGame.cpp
+	<iostream>
+	"../../include/DeckModel.h"
+	"../../include/OldMaidController.h"
+	"../../include/OldMaidModel.h"
+	"../../include/OldMaidView.h"
+
+1571159628 source:/home/onwn3720/scrap/OldMaid/src/CardController.cpp
+	"../include/CardModel.h"
+
+1571201554 /home/onwn3720/scrap/OldMaid/include/CardModel.h
+	<string>
+
+1571198842 source:/home/onwn3720/scrap/OldMaid/src/CardModel.cpp
+	<iostream>
+	<string>
+	"../include/CardModel.h"
+
+1571201641 source:/home/onwn3720/scrap/OldMaid/src/DeckModel.cpp
+	<string>
+	<vector>
+	<iostream>
+	<algorithm>
+	<random>
+	<chrono>
+	"../include/CardModel.h"
+	"../include/DeckModel.h"
+
+1571200117 /home/onwn3720/scrap/OldMaid/include/DeckModel.h
+	"CardModel.h"
+	<vector>
+	<string>
+
+1571161225 source:/home/onwn3720/scrap/OldMaid/src/DiscardedModel.cpp
+	<iostream>
+	"../include/DiscardedModel.h"
+
+1571199676 source:/home/onwn3720/scrap/OldMaid/src/PlayerHandModel.cpp
+	<string>
+	<vector>
+	<iostream>
+	"../include/PlayerHandModel.h"
+
+1571201250 /home/onwn3720/scrap/OldMaid/include/PlayerHandModel.h
+	<vector>
+	<string>
+	"DeckModel.h"
+	"CardModel.h"
+
+1571199313 source:/home/onwn3720/scrap/OldMaid/src/OldMaidModel.cpp
+	<vector>
+	<string>
+	"../include/OldMaidModel.h"
+	"../include/DeckModel.h"
+
+1571200712 /home/onwn3720/scrap/OldMaid/include/OldMaidModel.h
+	"DeckModel.h"
+	"PlayerHandModel.h"
+	<vector>
+	<string>
+
+1571161061 /home/onwn3720/scrap/OldMaid/include/GameModel.h
+	<sstream>
+	<fstream>
+	<string>
+	"DeckModel.h"
+
+1571160248 /home/onwn3720/scrap/OldMaid/include/DiscardedModel.h
+	"DeckModel.h"
+
+1571161088 /home/onwn3720/scrap/OldMaid/include/GamePileModel.h
+	<vector>
+	"DeckModel.h"
+
+1571161156 source:/home/onwn3720/scrap/OldMaid/src/GamePileModel.cpp
+	"../include/GamePileModel.h"
+	<ctime>
+
+1571201344 source:/home/onwn3720/scrap/OldMaid/src/OldMaidView.cpp
+	<iostream>
+	<vector>
+	<string>
+	"../include/OldMaidView.h"
+	"../include/OldMaidModel.h"
+
+1571201115 /home/onwn3720/scrap/OldMaid/include/OldMaidView.h
+	<vector>
+	<string>
+	"OldMaidModel.h"
+
+1571199091 source:/home/onwn3720/scrap/OldMaid/src/OldMaidController.cpp
+	<vector>
+	<string>
+	"../include/OldMaidController.h"
+
+1571200393 /home/onwn3720/scrap/OldMaid/include/OldMaidController.h
+	<vector>
+	<algorithm>
+	"OldMaidView.h"
+	"OldMaidModel.h"
+
+1571201525 source:/home/onwn3720/scrap/OldMaid/src/cardGame.cpp
+	<iostream>
+	"../include/DeckModel.h"
+	"../include/OldMaidController.h"
+	"../include/OldMaidModel.h"
+	"../include/OldMaidView.h"
+
